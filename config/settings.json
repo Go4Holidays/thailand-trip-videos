@@ -1,0 +1,20 @@
+{
+    "project": "Thailand Trip Videos",
+    "video_format": "mp4",
+    "resolution": "1080x1920",
+    "fps": 30,
+    "transitions": {
+          "type": "fade",
+          "duration": 0.5
+    },
+    "music": {
+          "volume": 0.6,
+          "fade_in": 1.0,
+          "fade_out": 1.0
+    },
+    "clips": [
+          {"name": "Bangkok Street", "duration": 3, "text_overlay": "Bangkok"},
+          {"name": "Phuket Beach", "duration": 3, "text_overlay": "Phuket"},
+          {"name": "Chiang Mai Temple", "duration": 3, "text_overlay": "Chiang Mai"}
+    ]
+}
